@@ -17,7 +17,7 @@ function Projetos(){
                     <img src="https://www.univates.br/blog//wp-content/uploads/2024/07/Imagens-posts-blog-47-1920x1280.jpg" alt="Projeto 3" />
                     <h3>Projeto 3</h3>
                     <p>Descrição do projeto 3</p>
-                </div>z
+                </div>
             </div>
         </section>
     );
